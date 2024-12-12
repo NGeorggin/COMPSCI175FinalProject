@@ -2,6 +2,8 @@
 
 Poker AI combining CFR methods with opponent modeling for Heads-Up No Limit Texas Hold Em.
 
+Please Note: Some of the models in our files are subject to size constraints due to training. If there are any discrepancies, we sincerely apologize.
+
 ## COMPSCI175NNDQN
 
 Trains a NN on a trained DQN model.
