@@ -17,6 +17,9 @@ Trains a DQN on Heads Up No Limit Holdem.
 ## When you are about to run a `.ipynb` file, follow these instructions
 
 If one does not already exist, create in your local directory the folder `experiments` and within also create the folder `experiments\no_limit_holdem_dqn_results`.
+
 If you wish to load in a DQN model, you must declare it within the `no_limit_holdem_dqn_results` folder as `model.pth`.
+
 If you wish to load in a NN model, you must declare it within the `no_limit_holdem_dqn_results` folder as `nnmodel.pth`.
+
 There may be errors if this is not done properly.
