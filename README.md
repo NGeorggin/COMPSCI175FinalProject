@@ -13,3 +13,8 @@ Attempt at training CFR on Heads Up No Limit Holdem and implementation of Short 
 ## COMPSCI175DQN
 
 Trains a DQN on Heads Up No Limit Holdem.
+
+## When you are about to run a `.ipynb` file, follow these instructions
+
+If one does not already exist, create in your local directory the folder `experiments` and within also create the folder `experiments\no_limit_holdem_dqn_results`.
+There may be errors if this is not done properly.
